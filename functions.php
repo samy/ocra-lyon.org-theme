@@ -528,6 +528,8 @@ add_action( 'customize_preview_init', 'twentytwelve_customize_preview_js' );
 
 /* OCRA */
 add_image_size( 'accueil_petit_bloc', 172, 172,true);
+add_image_size( 'home_bloc', 288, 172,['center', 'center']);
+
 add_image_size( 'accueil_grand_bloc', 319);
 include_once('inc/post_types.php');
 

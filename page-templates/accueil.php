@@ -38,7 +38,9 @@ get_header(); ?>
 
 		<div id="content" role="main">
 
-	<div style="height:30px;text-align:right"><a style="display:inline-block;font-weight:bold;font-size:140%;padding:0 5px;" href="http://www.ocra-lyon.org/newsletter">Inscrivez-vous à notre newsletter</a></div>
+				<div style="text-align:left">
+					<a style="display:inline-block;font-weight:bold;color:#000;font-size:140%;padding:15px;border:1px solid Red;margin:15px;" href="/visites-suspendues/">INFORMATION : visites des souterrains du Fort de Vaise et de la Champignonière de Caluire suspendues en raison de travaux</a>
+				</div>
 
 			<div id="home_cols">				
 
@@ -61,7 +63,7 @@ get_header(); ?>
 				</div> -->
 
 			</div>
-		<h3>Nos prochaines visites et conférences</h3><br />
+		<!-- <h3>Nos prochaines visites et conférences</h3><br />
 		<div class="width:100%; float:left">
 <iframe src="https://yurplan.com/orga/OCRA-Lyon/1448/ticketing/widget" height="475" width="100%" scrolling="auto" frameborder="0"></iframe>
 
@@ -69,7 +71,7 @@ get_header(); ?>
         <a title="Logiciel de billetterie gratuit" style="color:#ddd; text-decoration:none;" target="_blank" href="https://yurplan.com/pro/billetterie/billetterie-en-ligne">Logiciel de billetterie gratuit</a>
         <span style="color:#ddd;">par</span> <a title="Logiciel de billetterie gratuit par YurPlan" style="color:#ddd; text-decoration:none;" target="_blank" href="https://yurplan.com">YurPlan</a>
     </div>
-    </div>
+    </div> !-->
 		</div><!-- #content -->
 
 	</div><!-- #primary -->

@@ -524,7 +524,7 @@ a:hover {
 .site {
 	padding: 0 24px;
 	padding: 0 1.714285714rem;
-	background:url("img/fond-ocra.png") repeat scroll left top rgba(0, 0, 0, 0);
+	background:#FFF;
 }
 .site-content {
 	margin: 24px 0 0;
@@ -1464,18 +1464,24 @@ img#wpstats {
     margin: 0 1%;
     text-align: center;
     vertical-align: top;
-    width: 19%;
+    width: 30%;
 }
 #home_cols .cols:first-child{
 	/*margin-left: 0;
     width: auto;*/
 }
+#home_cols aside a {
+	display:inline-block;
+	width:100%;
+}
+
 .cols aside img {
 
 }
 #home_col1 aside img {
 	/*max-width:none !important;
 	width:232px !important;*/
+	height:540px;
 }
 #home_col1 {
 	width:33% !important;
@@ -1487,11 +1493,9 @@ img#wpstats {
 .home .widget_recent_entries {
 	border: 1px solid #000000;
     border-radius: 5px;
-    margin-left: 1%;
-    max-height: 170px;
     padding: 0 3%;
     text-align: left;
-    width: 88%;
+	height:170px;
 }
 .home .widget_recent_entries h3 {
 	font-size: 150%;
